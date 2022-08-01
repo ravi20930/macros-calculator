@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">macrosCalculator</string>
+
+
+    <string-array name="activityLevels">
+
+        <item>Little/no exercise</item>
+        <item>Light exercise</item>
+        <item>Moderate exercise</item>
+        <item>Very active</item>
+        <item>Extra active</item>
+    </string-array>
+
+
+    <string-array name="goal">
+        <item>Maintenance</item>
+        <item>Gain weight</item>
+        <item>Loose weight</item>
+    </string-array>
+</resources>
